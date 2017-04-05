@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic3_1.iml" filepath="$PROJECT_DIR$/Basic3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar/actionbar.iml" filepath="$PROJECT_DIR$/actionbar/actionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar_search/actionbar_search.iml" filepath="$PROJECT_DIR$/actionbar_search/actionbar_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" filepath="$PROJECT_DIR$/fragment_lifecycle/fragment_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_separate/fragment_separate.iml" filepath="$PROJECT_DIR$/fragment_separate/fragment_separate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tab_menu/tab_menu.iml" filepath="$PROJECT_DIR$/tab_menu/tab_menu.iml" />
+    </modules>
+  </component>
+</project>

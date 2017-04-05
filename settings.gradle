@@ -1,0 +1,1 @@
+include ':menu', ':actionbar', ':actionbar_search', ':fragment', ':fragment_separate', ':fragment_lifecycle', ':tab_menu'
